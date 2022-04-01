@@ -1,0 +1,16 @@
+﻿TestID,VisitID,LabTest,Value,Unit
+1,1,Glucose,6.1,mmol/L
+2,1,HbA1c,8.5,%
+3,2,Glucose,7.2,mmol/L
+4,2,HbA1c,7.6,%
+5,5,TG,3.5,mmol/L
+6,5,LDL,4.4,mmol/L
+7,5,HDL,0.5,mmol/L
+8,7,Glucose,5.3,mmol/L
+9,7,HbA1c,7.8,%
+10,9,TG,3.2,mmol/L
+11,9,LDL,3.7,mmol/L
+12,9,HDL,0.7,mmol/L
+13,10,TG,2.5,mmol/L
+14,10,LDL,3.3,mmol/L
+15,10,HDL,0.9,mmol/L
