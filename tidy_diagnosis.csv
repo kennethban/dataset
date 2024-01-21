@@ -1,5 +1,5 @@
 ﻿DiagnosisID,VisitID,Diagnosis
-1,1,"DM,"
+1,1,DM
 2,1,HPT
 3,2,DM
 4,2,HPT
