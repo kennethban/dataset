@@ -1,4 +1,4 @@
-﻿VisitID,Polyclinic,VIsitDate,PatientID
+﻿VisitID,Polyclinic,VisitDate,PatientID
 1,Bukit Batok,14/1/2015,1
 2,Choa Chu Kang,7/4/2015,1
 3,Clementi,15/4/2015,2
@@ -8,4 +8,5 @@
 7,Bukit Batok,13/8/2015,1
 8,Choa Chu Kang,25/9/2015,4
 9,Jurong,3/10/2015,3
+
 10,Jurong,15/12/2015,3
