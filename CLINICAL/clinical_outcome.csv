@@ -1,0 +1,21 @@
+text,labels
+Patient is stable and improving.,0
+Blood pressure normal after medication.,0
+Pain controlled with oral analgesia; mobilizing well.,0
+No complications; wound clean and dry.,0
+Discharged home in good condition.,0
+Symptoms resolved after nebulization.,0
+HbA1c improved; diabetes under control.,0
+Anxiety well-managed with CBT sessions.,0
+Walking independently; physiotherapy effective.,0
+"No fever, no chest pain, sleeping better.",0
+Condition deteriorated overnight.,1
+Requires ventilation and intensive monitoring.,1
+Persistent hypotension despite fluids.,1
+Worsening hypoxia with increased oxygen demand.,1
+Sepsis suspected; started broad-spectrum antibiotics.,1
+Recurrent chest pain; troponins rising.,1
+Severe dyspnea on minimal exertion.,1
+GCS dropped; urgent CT requested.,1
+Acute kidney injury; creatinine worsening.,1
+Transferred to ICU for close observation.,1
